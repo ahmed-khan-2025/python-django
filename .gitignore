@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.egg-info/
+*.egg
+dist/
+build/
+Uploads/
+# Virtual environments
+venv/
+env/
+ENV/
+*.env
+*.venv
+
+# Django
+*.log
+local_settings.py
+db.sqlite3
+media/
+staticfiles/
+static/
+
+# VS Code
+.vscode/
+
+# Mac OS
+.DS_Store
+
+# PyCharm
+.idea/
+
+# MyPy, Pylint, etc.
+.mypy_cache/
+.pytest_cache/
+.coverage
+.tox/
